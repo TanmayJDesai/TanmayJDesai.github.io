@@ -1,72 +1,80 @@
-![Hi Everyone!](https://github.com/TanmayJDesai/TanmayJDesai.github.io/assets/65262891/5f9bff30-2295-4c8f-9930-4d48d32fd1d8)
+<div align="center">
+  <img src="https://github.com/TanmayJDesai/TanmayJDesai.github.io/assets/65262891/2e277e2a-a533-492a-9ce7-318ff08e3ef6" width="300">
+</div>
 
+Hey there! I'm Tanmay, a Computer Science and Engineering student at UCLA, expected to graduate in June 2025. Here's a peek into my world:
 
-(805) 871-6211 | desai.j.tanmay@gmail.com | [LinkedIn](https://www.linkedin.com/in/tanmaydesaij/) | [Instagram](https://www.instagram.com/ta.anmay/) | [GitHub](https://github.com/TanmayJDesai)
+**Let's Connect!**
+- 📱 [Give me a call!](tel:+18058716211)
+- ✉️ [Send me an email!](mailto:desai.j.tanmay@gmail.com)
+- 💼 [Connect on LinkedIn!](https://www.linkedin.com/in/tanmaydesaij/)
+- 📸 [Follow me on Instagram!](https://www.instagram.com/ta.anmay/)
+- 💻 [Check out my GitHub!](https://github.com/TanmayJDesai/)
 
-## EDUCATION
-**University of California, Los Angeles (UCLA)**, Los Angeles, CA  
-Bachelor of Science, Computer Science and Engineering (Expected June 2025)  
-*Relevant Coursework:* Algorithms and Data Structures, Software Construction, Algorithms and Complexity, Computer Organization, Operating Systems Principles, Logic Design of Digital Systems, Computing Theory, and Linear Algebra.
+**My Journey**
+I've had some exciting experiences that have shaped my skills and passions:
 
-## EXPERIENCE
-**National Science Foundation**, Los Angeles, CA  
-*Data Analytics and Software Engineering Intern* (February 2024 - Present)
-- Engineered a solution to collate and organize teams' data from I-Corps regional programming into a single spreadsheet, ensuring data integrity and accuracy, and devised a programmatic approach to cross-reference related sheets for consistency in the consolidated data.
-- Developed a program to process and organize team data, integrating Salesforce IDs and primary keys for data integrity, and implemented an auto-update feature to sync team numbers with team names, enhancing data accessibility and analysis capabilities.
-- Integrated acquired data into the I-Corp data master sheet, establishing a dynamic pipeline of 200+ potential funding opportunities to support innovative research in various industries.
+- **National Science Foundation**
+  - Data Analytics and Software Engineering Intern (February 2024 - Present)
+  - Engineered a solution to collate and organize teams' data from I-Corps regional programming into a single spreadsheet, ensuring data integrity and accuracy.
+  - Developed a program to process and organize team data, integrating Salesforce IDs and primary keys for data integrity.
+  
+- **Data Coves**
+  - Software Development Intern (June 2023 - September 2023)
+  - Engineered the first specialized dbt adaptor for the Surreal database system, acquiring proficiency in SurrealDB and utilizing various Python libraries.
+  - Acquired a comprehensive understanding of the dbt ecosystem, resulting in a dbt certification.
 
-**Data Coves**, Thousand Oaks, CA  
-*Software Development Intern* (June 2023 - September 2023)
-- Engineered the first specialized dbt adaptor for the Surreal database system, acquiring proficiency in SurrealDB and utilizing various Python libraries, along with the command-line interface on macOS, to ensure optimal performance.
-- Acquired a comprehensive understanding of the dbt (data build tool) ecosystem by extensively reviewing its documentation and applying core concepts, including hands-on creation of a dbt project using Snowflake database and Kaggle-sourced data, resulting in a dbt certification.
+- **Data Science Union**
+  - Data Analyst (April 2023 - Present)
+  - Completed a comprehensive 10-week accelerated data science course, showcasing expertise in data cleaning, machine learning, and data visualization.
+  - Achieved 1st place in an exploratory data analysis (EDA) competition among 18 participants.
 
-**Data Science Union**, Los Angeles, CA  
-*Data Analyst* (April 2023 - Present)
-- Completed a comprehensive 10-week accelerated data science course, showcasing expertise in data cleaning, machine learning, and data visualization, and achieved 1st place in an exploratory data analysis (EDA) competition among 18 participants.
-- Completed data science assignments that involved problem-solving and bug handling/fixing using various programming languages and tools, demonstrating proficiency in the practical application of data science concepts and programming skills.
+- **Consult Your Community**
+  - Senior Analyst (January 2022 - Present)
+  - Led cross-functional website projects for diverse clients, ensuring strong organic visibility through SEO strategies and on-page optimization.
+  - Collaboratively designed and presented optimized website plans, showcasing excellent communication and presentation skills.
 
-**Consult Your Community**, Los Angeles, CA  
-*Senior Analyst* (January 2022 - Present)
-- Led cross-functional website projects for diverse clients. Gathered requirements and translated business needs into technical solutions. Expertise in SEO strategies, keyword research, and on-page optimization ensured strong organic visibility (increased client satisfaction).
-- Collaboratively designed and presented optimized website plans, showcasing excellent communication and presentation skills. Demonstrated strong leadership, adaptability, and a calm demeanor in fast-paced environments, ensuring project success and client satisfaction.
+**Key Projects**
+I've worked on some exciting projects that I'm proud of:
 
-## KEY PROJECTS
-1. **Stock Analysis: Amazon vs NASDAQ**
-- Analyzed and compared the stock performance of Amazon and the NASDAQ Composite index over the past 5 years, including visualizations of average returns and volatility.
+- **Stock Analysis: Amazon vs NASDAQ**
+  - Analyzed and compared the stock performance of Amazon and the NASDAQ Composite index over the past 5 years. [GitHub Repository](https://github.com/TanmayJDesai/Amazon-Vs-NASDAQ-Composite)
 
-    [GitHub Repository](https://github.com/TanmayJDesai/Amazon-Vs-NASDAQ-Composite)
+- **DeepVision Image Enhancement**
+  - Architected a TensorFlow image enhancement model, accomplishing refined details in images. [GitHub Repository](https://github.com/TanmayJDesai/Image_Upscaler)
 
-2. **DeepVision Image Enhancement (Python, Deep Learning)**
-- Architected a TensorFlow image enhancement model with a focus on convolutional layers and depth-to-space upscaling, accomplishing refined details in images.
+- **DBT Adaptor for SurrealDB**
+  - Created a Python project for distributing and installing a specialized dbt adaptor for the Surreal database system. [GitHub Repository](https://github.com/TanmayJDesai/dbt-surreal/blob/main/README.md)
 
-    [GitHub Repository](https://github.com/TanmayJDesai/Image_Upscaler)
+- **Shortest Path Finder for College Campuses**
+  - Developed a visualizer for finding the shortest path between two points on a grid, particularly designed for college campuses. [GitHub Repository](https://github.com/TanmayJDesai/Shortest_Path_Finder)
 
-3. **DBT Adaptor for SurrealDB**
-- Created a Python project for distributing and installing a specialized dbt adaptor for the Surreal database system.
+- **Twelfth Man**
+  - Developed a real-time live cricket application, implementing a real-time web application algorithm with WebSockets. [GitHub Repository](https://github.com/TanmayJDesai/Twelfth-Man-)
 
-    [GitHub Repository](https://github.com/TanmayJDesai/dbt-surreal/blob/main/README.md)
+- **Chorus-Lapilli**
+  - Created a game similar to TicTacToe with unique rules. [GitHub Repository](https://github.com/TanmayJDesai/Chorus-Lapilli)
 
-4. **Shortest Path Finder for College Campuses**
-- Developed a visualizer for finding the shortest path between two points on a grid, particularly designed for college campuses.
+**Technical Skills**
+I'm well-versed in various programming languages, databases, and technologies:
 
-    [GitHub Repository](https://github.com/TanmayJDesai/Shortest_Path_Finder)
-
-5. **Twelfth Man (React, JavaScript, MongoDB, and NodeJS)**
-- Developed a real-time live cricket application, implementing a real-time web application algorithm with WebSockets for immediate bidirectional communication between clients and servers.
-
-    [GitHub Repository](https://github.com/TanmayJDesai/Twelfth-Man-)
-
-6. **Chorus-Lapilli**
-- Created a game similar to TicTacToe with unique rules, including moving existing pieces to adjacent empty squares after the first three moves.
-
-    [GitHub Repository](https://github.com/TanmayJDesai/Chorus-Lapilli)
-
-## TECHNICAL SKILLS
-- **Programming Languages/Databases:** Python, SQL, RDBMS, C++, Data Build Tool, Snowflake Database, SurrealDB
+- **Languages/Databases:** Python, SQL, RDBMS, C++, Data Build Tool, Snowflake Database, SurrealDB
 - **Technologies:** Emacs, Google Sheets, Git Version Control
 - **Project Management:** Agile Methodology, Waterfall Methodology, Asana Software, JIRA Software
 
-## AWARDS AND ACHIEVEMENTS
-- **Awards:** Full International Baccalaureate Diploma, California State Seal of Civic Engagement, Biliteracy Award, Superintendent’s Highest Honor Award, Principal’s Honor Roll Award, AP Scholar with Distinction, Cognizant Digital Leadership Academy (DLA)
-- **Cricket:** President at UCLA Cricket, Played Division 1 SCCA (Southern California Cricket Association), Earned MVP in NCCA
-- **Wrestling:** 6 years of experience, Wrestled in Marmonte League 4 years (placing 2nd, and 1st - 3 times), Varsity Team Captain (2 years)
+**Awards and Achievements**
+I've been fortunate to receive recognition for my work:
+
+- Full International Baccalaureate Diploma
+- California State Seal of Civic Engagement
+- Biliteracy Award
+- Superintendent’s Highest Honor Award
+- Principal’s Honor Roll Award
+- AP Scholar with Distinction
+- Cognizant Digital Leadership Academy (DLA)
+- President at UCLA Cricket
+- MVP in NCCA
+- 6 years of wrestling experience
+- Wrestled in Marmonte League for 4 years
+
+Feel free to reach out if you'd like to chat more about my experiences and projects!

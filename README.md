@@ -1,4 +1,6 @@
-# TANMAY DESAI
+![Hi Everyone!](https://github.com/TanmayJDesai/TanmayJDesai.github.io/assets/65262891/5f9bff30-2295-4c8f-9930-4d48d32fd1d8)
+
+
 (805) 871-6211 | desai.j.tanmay@gmail.com | [LinkedIn](https://www.linkedin.com/in/tanmaydesaij/) | [Instagram](https://www.instagram.com/ta.anmay/) | [GitHub](https://github.com/TanmayJDesai)
 
 ## EDUCATION
@@ -29,16 +31,35 @@ Bachelor of Science, Computer Science and Engineering (Expected June 2025)
 - Collaboratively designed and presented optimized website plans, showcasing excellent communication and presentation skills. Demonstrated strong leadership, adaptability, and a calm demeanor in fast-paced environments, ensuring project success and client satisfaction.
 
 ## KEY PROJECTS
-**DeepVision Image Enhancement (Python, Deep Learning)**, Los Angeles, CA  
-*Lead Developer - Personal Project* (August 2023 - December 2023)
-- Architected a TensorFlow image enhancement model with a focus on convolutional layers and depth-to-space upscaling, accomplishing refined details in images.
-- Engineered an ESPCN model with a 3x upscale factor, 1 channel, Orthogonal kernel, and ReLU activation, contributing to enhanced feature extraction and a remarkable improvement in image quality.
-- Conducted a comprehensive efficacy assessment using PSNR metrics, demonstrating a transformative improvement from ~27 to ~6, and implemented effective fine-tuning strategies, including the utilization of Mean Squared Error loss during training.
+1. **Stock Analysis: Amazon vs NASDAQ**
+- Analyzed and compared the stock performance of Amazon and the NASDAQ Composite index over the past 5 years, including visualizations of average returns and volatility.
 
-**Twelfth Man (React, JavaScript, MongoDB, and NodeJS)**, Los Angeles, CA  
-*Lead Backend Developer and Project Manager - Group Project* (October 2022 - December 2022)
-- Collaborated with a team of 4 to develop a real-time live cricket application, implementing a real-time web application algorithm with WebSockets for immediate bidirectional communication between clients and servers.
-- Leveraged AJAX for dynamic data display, improving user interface responsiveness, and reducing latency. Utilized Agile methodology and Test-Driven Development for efficient project development.
+    [GitHub Repository](https://github.com/TanmayJDesai/Amazon-Vs-NASDAQ-Composite)
+
+2. **DeepVision Image Enhancement (Python, Deep Learning)**
+- Architected a TensorFlow image enhancement model with a focus on convolutional layers and depth-to-space upscaling, accomplishing refined details in images.
+
+    [GitHub Repository](https://github.com/TanmayJDesai/Image_Upscaler)
+
+3. **DBT Adaptor for SurrealDB**
+- Created a Python project for distributing and installing a specialized dbt adaptor for the Surreal database system.
+
+    [GitHub Repository](https://github.com/TanmayJDesai/dbt-surreal/blob/main/README.md)
+
+4. **Shortest Path Finder for College Campuses**
+- Developed a visualizer for finding the shortest path between two points on a grid, particularly designed for college campuses.
+
+    [GitHub Repository](https://github.com/TanmayJDesai/Shortest_Path_Finder)
+
+5. **Twelfth Man (React, JavaScript, MongoDB, and NodeJS)**
+- Developed a real-time live cricket application, implementing a real-time web application algorithm with WebSockets for immediate bidirectional communication between clients and servers.
+
+    [GitHub Repository](https://github.com/TanmayJDesai/Twelfth-Man-)
+
+6. **Chorus-Lapilli**
+- Created a game similar to TicTacToe with unique rules, including moving existing pieces to adjacent empty squares after the first three moves.
+
+    [GitHub Repository](https://github.com/TanmayJDesai/Chorus-Lapilli)
 
 ## TECHNICAL SKILLS
 - **Programming Languages/Databases:** Python, SQL, RDBMS, C++, Data Build Tool, Snowflake Database, SurrealDB

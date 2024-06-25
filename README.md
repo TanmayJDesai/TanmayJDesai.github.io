@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://github.com/TanmayJDesai/TanmayJDesai.github.io/assets/65262891/2e277e2a-a533-492a-9ce7-318ff08e3ef6" width="300">
-</div>
+<div style="background-color: black; border: 2px solid gold; padding: 20px;">
+  <div align="center">
+    <img src="https://github.com/TanmayJDesai/TanmayJDesai.github.io/assets/65262891/2e277e2a-a533-492a-9ce7-318ff08e3ef6" width="300">
+  </div>
 
 Hey there! I'm Tanmay, a Computer Science and Engineering student at UCLA, expected to graduate in June 2025. Here's a peek into my world:
 
@@ -38,22 +39,28 @@ I've had some exciting experiences that have shaped my skills and passions:
 I've worked on some exciting projects that I'm proud of:
 
 - **Stock Analysis: Amazon vs NASDAQ**
-  - Analyzed and compared the stock performance of Amazon and the NASDAQ Composite index over the past 5 years. [GitHub Repository](https://github.com/TanmayJDesai/Amazon-Vs-NASDAQ-Composite)
+  - Analyzed and compared the stock performance of Amazon and the NASDAQ Composite index over the past 5 years.
+  - [GitHub Repository](https://github.com/TanmayJDesai/Amazon-Vs-NASDAQ-Composite)
 
 - **DeepVision Image Enhancement**
-  - Architected a TensorFlow image enhancement model, accomplishing refined details in images. [GitHub Repository](https://github.com/TanmayJDesai/Image_Upscaler)
+  - Architected a TensorFlow image enhancement model, accomplishing refined details in images.
+  - [GitHub Repository](https://github.com/TanmayJDesai/Image_Upscaler)
 
 - **DBT Adaptor for SurrealDB**
-  - Created a Python project for distributing and installing a specialized dbt adaptor for the Surreal database system. [GitHub Repository](https://github.com/TanmayJDesai/dbt-surreal/blob/main/README.md)
+  - Created a Python project for distributing and installing a specialized dbt adaptor for the Surreal database system.
+  - [GitHub Repository](https://github.com/TanmayJDesai/dbt-surreal/blob/main/README.md)
 
 - **Shortest Path Finder for College Campuses**
-  - Developed a visualizer for finding the shortest path between two points on a grid, particularly designed for college campuses. [GitHub Repository](https://github.com/TanmayJDesai/Shortest_Path_Finder)
+  - Developed a visualizer for finding the shortest path between two points on a grid, particularly designed for college campuses.
+  - [GitHub Repository](https://github.com/TanmayJDesai/Shortest_Path_Finder)
 
 - **Twelfth Man**
-  - Developed a real-time live cricket application, implementing a real-time web application algorithm with WebSockets. [GitHub Repository](https://github.com/TanmayJDesai/Twelfth-Man-)
+  - Developed a real-time live cricket application, implementing a real-time web application algorithm with WebSockets.
+  - [GitHub Repository](https://github.com/TanmayJDesai/Twelfth-Man-)
 
 - **Chorus-Lapilli**
-  - Created a game similar to TicTacToe with unique rules. [GitHub Repository](https://github.com/TanmayJDesai/Chorus-Lapilli)
+  - Created a game similar to TicTacToe with unique rules.
+  - [GitHub Repository](https://github.com/TanmayJDesai/Chorus-Lapilli)
 
 **Technical Skills**
 I'm well-versed in various programming languages, databases, and technologies:
